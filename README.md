@@ -1,7 +1,6 @@
-# meirihaojia
 # 每日好价混合APP项目
 
-# 热销榜单：https://www.meirihaojia.com/activity/#/bestSell
+## 热销榜单：https://www.meirihaojia.com/activity/#/bestSell
 # 全网比价：https://www.meirihaojia.com/activity/#/compare
 # 0元购：https://www.meirihaojia.com/activity/#/freeBuy
 # 申请合伙人：https://www.meirihaojia.com/activity/#/partner
